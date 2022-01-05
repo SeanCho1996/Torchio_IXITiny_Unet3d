@@ -1,0 +1,6 @@
+*.pkl
+*.pth
+*.nii.gz
+
+__pycache__
+ixi_tiny
